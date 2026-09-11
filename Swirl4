@@ -1,0 +1,26 @@
+1
+4
+num_vect <- c(0.5, 55, -10, 6)
+tf <- num_vect < 1 #ai assist
+2
+tf
+num_vect >= 6
+2
+1
+1
+2
+1
+2
+my_char <- ("My", "name", "is") #forgot c
+my_char <- c("My", "name", "is")
+my_char
+paste(my_char , collapse = " ")
+c(my_char, "Sam_Stephenson")
+my_name <- c(my_char, "Sam_Stephenson") #forgot my_name c
+my_name
+my_name <- paste(my_name, collapse = " ")
+paste(my_name, collapse = " ") #ai assist
+paste("Hello", "world!", sep = " ")
+paste(1:3, c("X", "Y", "Z"), sep = " ") #wrong spacing
+paste(1:3, c("X", "Y", "Z"), sep = "")
+paste(LETTERS, 1:4, sep = "-")
