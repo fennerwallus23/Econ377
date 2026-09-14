@@ -1,0 +1,18 @@
+library(swirl)
+swirl()
+sam stephenson
+1
+5
+x <- c(44, NA, 5, NA) #initial typo
+x*3
+y <- rnorm(1000)
+z <- rep(NA, 1000)
+my_data <- sample (c(y, z), 100)
+my_na <- is.na(my_data)
+my_na
+my_data == NA #ai assist, unfamaliar with ==
+sam <- (my_na)
+sum(my_na) #ai assist
+my_data
+0/0
+Inf - Inf
