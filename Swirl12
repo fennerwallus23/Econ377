@@ -1,0 +1,19 @@
+2
+1
+12
+ls()
+class(plants)
+dim(plants)
+nrow(plants)
+ncol(plants)
+object.size(plants)
+names(plants)
+head(x)
+head(plants)
+head(plants, 10)
+tail(, 15)
+tail(plants, 15) #forgot plants
+summary(plants)
+table(plants$Active_Growth_Period)
+str()
+str(plants) #forgot plants again
